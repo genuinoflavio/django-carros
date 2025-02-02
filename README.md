@@ -35,3 +35,7 @@ O Django Master é uma excelente oportunidade para quem deseja se tornar um prog
 TODO
 
 # Lincença/Privacidade
+
+
+# RESTORE 1
+### Flavio Genuino da Silva
