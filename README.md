@@ -42,3 +42,6 @@ TODO
 
 # RESTORE 2
 ### Flavio plimela linha
+
+
+Comando git PULL 
