@@ -45,3 +45,4 @@ TODO
 
 
 Comando git PULL 
+Comando git fetch
